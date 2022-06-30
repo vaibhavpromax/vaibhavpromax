@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh Gangwar</h1>
 <h3 align="center">I am a B.Tech Student from IIIT Sonepat. I am interested in Web Dev , Problem Solving and DSA</h3>
 
-<p align="left"> <a href="https://twitter.com/finding_404" target="blank"><img src="https://img.shields.io/twitter/follow/finding_404?logo=twitter&style=for-the-badge" alt="finding_404" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vaibhavpromax" target="blank"><img src="https://img.shields.io/twitter/follow/finding_404?logo=twitter&style=for-the-badge" alt="finding_404" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
